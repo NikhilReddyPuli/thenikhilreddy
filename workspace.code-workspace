@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\divya p\\Desktop\\NIKHIL.SRM"
+		},
+		{
+			"path": "C:\\Users\\divya p\\Desktop\\nikhil programs\\js-begining"
+		},
+		{
+			"path": "c:\\Users\\divya p\\Desktop\\js-basics"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js-basics"
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"type": "pwa-chrome",
+				"request": "launch",
+				"name": "Launch Chrome against localhost",
+				"url": "http://localhost:8080",
+				"webRoot": "${workspaceFolder}"
+			}
+		]
+	}
+}
